@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShimaSafari
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning FrontEnd with REACT.js
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking for a PERFECT job position
 - 📫 How to reach me shimasafarimg@gmail.com
 - ⚡ Fun fact: 😊🤗
