@@ -4,15 +4,16 @@ A passionate and driven front-end developer dedicated to crafting engaging and m
 
 ## About Me ✨
 
-I love transforming ideas into reality through code. My main focus is front-end development using React and Next.js, and I'm always eager to learn new technologies and improve my skills. I thrive in collaborative environments and enjoy tackling challenging projects.
+I love transforming ideas into reality through code. My main focus is full-stack development using React and Next.js, and I'm always eager to learn new technologies and improve my skills. I thrive in collaborative environments and enjoy tackling challenging projects.
 
 ## Skills 💫
 
-*   **Programming Languages:** JavaScript (ES6+), Python, PHP
-*   **Frameworks & Libraries:** React, Next.js
+*   **Programming Languages:** JavaScript (ES6+), TypeScript, Python
+*   **Frameworks & Libraries:** React, Next.js, Streamlit
 *   **Styling:** MUI (Material UI), Shadcn UI, Tailwind CSS
-*   **Tools:** Git, GitHub, Jira, Strapi, Streamlit, Google AI Studio, Figma 
-
+*   **Tools:** Git, GitHub, Jira, Strapi, , Google AI Studio, Figma , WordPress, Drizzle ORM
+*   **DataBase:** MySQL, PostgreSQL
+*   **hardworking research-oriented detail-oriented**
 ## Connect with Me 🔔
 
 *   [GitHub](https://github.com/ShimaSafari)
@@ -25,9 +26,9 @@ I'm always open to new opportunities and collaborations. If you have an interest
 ## Interests 😁
 
 *   Photography
-*   Shopping
 *   Watching movie with family
-*   Eating & Sleeping 
+*   Learning
+*   Working with AI Tools
 
 <!---
 ShimaSafari/ShimaSafari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
