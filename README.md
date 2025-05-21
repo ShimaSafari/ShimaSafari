@@ -1,36 +1,59 @@
-# Hi, I'm Shima Safari 👋👩
+# 👋 Hi, I'm Shima Safari
+Please Checkout My Portfolio [https://shima-safari.vercel.app/](https://shima-safari.vercel.app/)
+---
 
-A passionate and driven front-end developer dedicated to crafting engaging and modern user experiences.
+## 👩‍💻 About Me
 
-## About Me ✨
+I'm a full-stack developer who loves making beautiful and useful websites and applications. My main interests are working with **Next.js** and **React.js**.  
+I learn quickly and look forward to opportunities where I can contribute my skills and help teams achieve their goals.
 
-I love transforming ideas into reality through code. My main focus is full-stack development using React and Next.js, and I'm always eager to learn new technologies and improve my skills. I thrive in collaborative environments and enjoy tackling challenging projects.
+---
+## 📞 Contact
+- **Email:** shimasafarimg@gmail.com
+- **Location:** Iran | Born: 1999
+---
 
-## Skills 💫
+## 💻 Skills
 
-*   **Programming Languages:** JavaScript (ES6+), TypeScript, Python
-*   **Frameworks & Libraries:** React, Next.js, Streamlit
-*   **Styling:** MUI (Material UI), Shadcn UI, Tailwind CSS
-*   **Tools:** Git, GitHub, Jira, Strapi, , Google AI Studio, Figma , WordPress, Drizzle ORM
-*   **DataBase:** MySQL, PostgreSQL
-*   **hardworking research-oriented detail-oriented**
-## Connect with Me 🔔
+**Programming Languages:**  
+HTML/CSS, JavaScript, TypeScript
 
-*   [GitHub](https://github.com/ShimaSafari)
-*   [Email](shimasafarimg@gmail.com)
+**Frameworks & Libraries:**  
+Next.js, React.js, Streamlit
 
-## Open to Collaboration 📣
+**Styling:**  
+MaterialUI, ShadcnUI, TailwindCSS
 
-I'm always open to new opportunities and collaborations. If you have an interesting project or idea, feel free to reach out!
+**Tools:**  
+Git, GitHub, Strapi CMS, Clerk, Jira, REST API, Drizzle ORM, Supabase, Figma, WordPress
 
-## Interests 😁
+**Database:**  
+MySQL, PostgreSQL
 
-*   Photography
-*   Watching movie with family
-*   Learning
-*   Working with AI Tools
+**Soft Skills:**  
+Hardworking, Research-oriented, Detail-oriented
 
-<!---
-ShimaSafari/ShimaSafari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Projects
+- **Personal Portfolio**   [https://shima-safari.vercel.app/](https://shima-safari.vercel.app/)
+ *(Nextjs – Typescript - TailwindCSS)*
+  
+- **AI Resume Builder**  [https://ai-resume-builder-react-shadcn.vercel.app](https://ai-resume-builder-react-shadcn.vercel.app)
+  *(React – Supabase – Clerk – Shadcn)*
+ 
+
+- **BabyLine Ecommerce**   [https://babyline-ecommerce-react-mui.vercel.app](https://babyline-ecommerce-react-mui.vercel.app)
+  *(React – Material UI)*  
+ 
+---
+
+## 🌱 Interests
+
+- Learning new things
+- Exploring new AI tools
+- Taking pictures of small wonders
+
+---
+
+> _Thank you for visiting my profile! Feel free to connect or check out my projects above._ 😊
