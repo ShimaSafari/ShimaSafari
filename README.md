@@ -38,13 +38,16 @@ Hardworking, Research-oriented, Detail-oriented
 
 ## 🚀 Projects
 - **Personal Portfolio**   [https://shima-safari.vercel.app/](https://shima-safari.vercel.app/)
- *(Nextjs – Typescript - TailwindCSS)*
-  
-- **AI Resume Builder**  [https://ai-resume-builder-react-shadcn.vercel.app](https://ai-resume-builder-react-shadcn.vercel.app)
+ *(Next.js – Typescript - TailwindCSS)*
+
+- **Task Manager Dashboard**   [task-manager-dashboard Live Site](https://task-management-dashboard-next-ts-shadcn-shima-safari-team.vercel.app/)
+  *(Next.js - TypScript - Shadcn UI - TailwindCSS - SWR)*  
+ 
+- **AI Resume Builder**  [ai-resume-builder Live Site](https://ai-resume-builder-react-shadcn.vercel.app)
   *(React – Supabase – Clerk – Shadcn)*
  
 
-- **BabyLine Ecommerce**   [https://babyline-ecommerce-react-mui.vercel.app](https://babyline-ecommerce-react-mui.vercel.app)
+- **BabyLine Ecommerce**   [babyline-ecommerce Live Site](https://babyline-ecommerce-react-mui.vercel.app)
   *(React – Material UI)*  
  
 ---
