@@ -1,63 +1,72 @@
-# 👋 Hi, I'm Shima Safari
-Please Checkout My Portfolio [https://shima-safari.vercel.app/](https://shima-safari.vercel.app/)
+# Shima Safari  
+
+[Portfolio Website](https://shima-safari.vercel.app/)  
 
 ---
 
-## 👩‍💻 About Me
-
-I'm a full-stack developer who loves making beautiful and useful websites and applications. My main interests are working with **Next.js** and **React.js**.  
-I learn quickly and look forward to opportunities where I can contribute my skills and help teams achieve their goals.
-
----
-## 📞 Contact
-- **Email:** shimasafarimg@gmail.com
-- **Location:** Iran | Born: 1999
----
-
-## 💻 Skills
-
-**Programming Languages:**  
-HTML/CSS, JavaScript, TypeScript
-
-**Frameworks & Libraries:**  
-Next.js, React.js, Streamlit
-
-**Styling:**  
-MaterialUI, ShadcnUI, TailwindCSS
-
-**Tools:**  
-Git, GitHub, Strapi CMS, Clerk, Jira, REST API, Drizzle ORM, Supabase, Figma, WordPress
-
-**Database:**  
-MySQL, PostgreSQL
-
-**Soft Skills:**  
-Hardworking, Research-oriented, Detail-oriented
+## About Me  
+I am a **Front-End / Full-Stack Developer** focused on building modern, scalable, and user-friendly applications.  
+My main expertise is in **Next.js**, **React.js**, and **TypeScript**, and I value clean, maintainable code as much as intuitive UI.  
+I’m motivated to learn continuously and contribute effectively to collaborative projects.  
 
 ---
 
-## 🚀 Projects
-- **Personal Portfolio**   [https://shima-safari.vercel.app/](https://shima-safari.vercel.app/)
- *(Next.js – Typescript - TailwindCSS)*
+## Skills  
 
-- **Task Manager Dashboard**   [task-manager-dashboard Live Site](https://task-management-dashboard-next-ts-shadcn-shima-safari-team.vercel.app/)
-  *(Next.js - TypScript - Shadcn UI - TailwindCSS - SWR)*  
- 
-- **AI Resume Builder**  [ai-resume-builder Live Site](https://ai-resume-builder-react-shadcn.vercel.app)
-  *(React – Supabase – Clerk – Shadcn)*
- 
+**Languages**  
+- HTML5, CSS3, JavaScript (ES6+), TypeScript  
 
-- **BabyLine Ecommerce**   [babyline-ecommerce Live Site](https://babyline-ecommerce-react-mui.vercel.app)
-  *(React – Material UI)*  
- 
----
+**Frameworks & Libraries**  
+- Next.js, React.js, Context API, SWR, REST API  
 
-## 🌱 Interests
+**UI & Styling**  
+- TailwindCSS, Shadcn/UI, Material-UI  
 
-- Learning new things
-- Exploring new AI tools
-- Taking pictures of small wonders
+**Databases & Backend**  
+- Supabase, PostgreSQL, MySQL, Clerk Auth, Drizzle ORM  
+
+**Tools**  
+- Git & GitHub, Jira, Strapi CMS, WordPress, Figma  
+
+**Soft Skills**  
+- Problem Solving, Research-Oriented, Detail-Oriented, Teamwork  
 
 ---
 
-> _Thank you for visiting my profile! Feel free to connect or check out my projects above._ 😊
+## Projects  
+
+### [AI Resume Builder](https://ai-resume-builder-react-shadcn.vercel.app)  
+[GitHub Repo](https://github.com/ShimaSafari/ai-resume-builder)  
+- React.js / Supabase / Clerk Auth / Shadcn UI / REST API / Context  
+- AI-powered resume builder with authentication and real-time storage.  
+
+---
+
+### [BabyLine Ecommerce](https://babyline-ecommerce-react-mui.vercel.app)  
+[GitHub Repo](https://github.com/ShimaSafari/BabyLine)  
+- React.js / Material-UI / Context  
+- E-commerce platform with cart, product listing, and responsive UI.  
+
+---
+
+### [Task Manager Dashboard](https://task-management-dashboard-next-ts-shadcn.vercel.app)  
+[GitHub Repo](https://github.com/ShimaSafari/Task-Management-Dashboard)  
+- Next.js / TypeScript / Shadcn UI / TailwindCSS / REST API / SWR / Context  
+- Task management system with API integration and dashboard UI.  
+
+---
+
+### [RestCountries App](https://restcountries-next-ts-shadcn.vercel.app)  
+[GitHub Repo](https://github.com/ShimaSafari/restcountries-app)  
+- Next.js / TypeScript / Shadcn UI / TailwindCSS / REST API / Context  
+- Country explorer app with search, filters, and responsive design.  
+
+---
+
+## Contact  
+- **Email:** shimasafarimg@gmail.com  
+- **Location:** Iran | Born: 1999  
+
+---
+
+*Thank you for visiting my GitHub profile. Feel free to explore my projects or get in touch.*  
